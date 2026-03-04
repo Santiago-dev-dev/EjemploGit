@@ -19,4 +19,4 @@ if dia > dias_mes[mes - 1]:
 
 print("La nueva fecha es:", dia, "/", mes, "/", año)
 
-print("Modificación")
+print("Modificación local (Versión 2)")
